@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Community Discussions
+    url: https://github.com/code-well0/trip-planner/discussions
+    about: Please ask questions or share ideas here before opening a bug report.
+  - name: Contribution Guide
+    url: https://github.com/code-well0/trip-planner/blob/main/CONTRIBUTING.md
+    about: Read our guidelines for GSSoC’25 and DSCWoC.
