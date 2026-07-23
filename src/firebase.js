@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCiVjM54cFxvjOf-1Egqhr3XrlCNu_I3WQ",
+  apiKey: "Your_API_KEY",
   authDomain: "trip-planner-bad2b.firebaseapp.com",
   projectId: "trip-planner-bad2b",
   storageBucket: "trip-planner-bad2b.firebasestorage.app",
